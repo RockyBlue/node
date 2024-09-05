@@ -3,3 +3,8 @@ vless://af05de65-3b0a-4f75-ab8d-59c67eb89519@104.17.249.83:443?security=tls&sni=
 hy2://dongtaiwang.com@207.90.239.157:3400?insecure=1&sni=www.bing.com#%E6%B2%B9%E7%AE%A1%E7%BB%B5%E9%98%BF%E7%BE%8A_United%20States_hy2_0
 hy2://zhangyang@130.61.50.75:6443?insecure=1&sni=www.bing.com#AMD-HY2
 hy2://zhangyang@130.61.83.37:6443?sni=arm.duduskying.cf#ARM23-HY2
+hy2://f7091ff4-d5c8-458b-b2ec-767db318fac6@us-04.worldfirst.eu.org:44300?insecure=1&sni=us-01.worldfirst.eu.org#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%2004-1P
+hy2://d6a6deeb-be52-406a-9463-fae84249ec20@us-03.worldfirst.eu.org:44300?insecure=1&sni=us-01.worldfirst.eu.org#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%2003-1M
+hy2://051e7723-f2b7-41b6-8df6-e6e9a1612aeb@us-01.worldfirst.eu.org:44300?insecure=1&sni=us-01.worldfirst.eu.org#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%2001-1A
+hy2://a37d8c43-f69c-4470-93c8-68fe27680ead@us-02.worldfirst.eu.org:44300?insecure=1&sni=us-01.worldfirst.eu.org#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%2002-1R
+hy2://ccfbf68a-c7aa-426a-aa7c-77090cc06c72@us-04.worldfirst.eu.org:44300?insecure=1&sni=us-01.worldfirst.eu.org#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%2004-1Q
