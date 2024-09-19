@@ -2,30 +2,8 @@ hysteria2://zhangyang@130.61.83.37:6443/?sni=arm.duduskying.cf&insecure=0#ARM23-
 hysteria2://zhangyang@130.61.50.75:6443/?sni=www.bing.com&insecure=1#AMD-HY2
 hysteria2://dongtaiwang.com@207.90.239.157:3400/?sni=www.bing.com&insecure=1#%E6%B2%B9%E7%AE%A1%E7%BB%B5%E9%98%BF%E7%BE%8A_United%20States_hy2_0
 hysteria2://01130e6dda139c1c@144.22.243.213:24749/?sni=www.bing.com&alpn=h3&insecure=1#%E5%9C%A3%E4%BF%9D%E7%BD%97hy2
-hysteria2://083d480a-4ce0-4743-92a5-4867ab4d8790@149.130.210.148:44300/?sni=tg.WangCai2&insecure=1#%F0%9F%87%BA%F0%9F%87%B8US_%40WangCai_8
-hysteria2://f917a2a7-cd83-4a37-bec1-47e8a491b565@149.130.210.148:44300/?sni=tg.WangCai2&insecure=1#%F0%9F%87%BA%F0%9F%87%B8US_%40WangCai_8
-hysteria2://36c97252-a757-4a67-aecf-df95ae4ff1ab@149.130.210.148:44300/?sni=tg.WangCai2&insecure=1#%F0%9F%87%BA%F0%9F%87%B8US_%40WangCai_8
-hysteria2://ea9d01f8-f13e-451e-943e-8b765a2cc153@149.130.210.148:44300/?sni=tg.WangCai2&insecure=1#%F0%9F%87%BA%F0%9F%87%B8US_%40WangCai_8
-hysteria2://0678d734-ceff-463a-b784-6630d27d425d@149.130.210.148:44300/?sni=tg.WangCai2&insecure=1#%F0%9F%87%BA%F0%9F%87%B8US_%40WangCai_8
-hysteria2://6f7b3a32-a279-41a4-ad95-364d4ce64d76@149.130.210.148:44300/?sni=tg.WangCai2&insecure=1#%F0%9F%87%BA%F0%9F%87%B8US_%40WangCai_8
-hysteria2://6b9174d1-d288-4152-9c83-c5374699e55d@149.130.210.148:44300/?sni=tg.WangCai2&insecure=1#%F0%9F%87%BA%F0%9F%87%B8US_%40WangCai_8
-hysteria2://a4309499-1278-4158-86ea-bb1005145787@207.211.162.109:44300/?sni=tg.WangCai2&insecure=1#%F0%9F%87%BA%F0%9F%87%B8US_%40WangCai_8
-hysteria2://458d251c-d0d1-4dfc-b689-b4df66f71bc8@207.211.162.109:44300/?sni=tg.WangCai2&insecure=1#%F0%9F%87%BA%F0%9F%87%B8US_%40WangCai_8
-hysteria2://083d480a-4ce0-4743-92a5-4867ab4d8790@207.211.162.109:44300/?sni=tg.WangCai2&insecure=1#%F0%9F%87%BA%F0%9F%87%B8US_%40WangCai_8
-hysteria2://c79a61eb-c57b-44f3-bc27-73d8c64a268b@207.211.162.109:44300/?sni=tg.WangCai2&insecure=1#%F0%9F%87%BA%F0%9F%87%B8US_%40WangCai_8
-hysteria2://6f7b3a32-a279-41a4-ad95-364d4ce64d76@207.211.162.109:44300/?sni=tg.WangCai2&insecure=1#%F0%9F%87%BA%F0%9F%87%B8US_%40WangCai_8
-hysteria2://6b9174d1-d288-4152-9c83-c5374699e55d@207.211.162.109:44300/?sni=tg.WangCai2&insecure=1#%F0%9F%87%BA%F0%9F%87%B8US_%40WangCai_8
-hysteria2://c1bdce01-d698-41e1-af4c-108fdcb5fe31@207.211.164.255:44300/?sni=tg.WangCai2&insecure=1#%F0%9F%87%BA%F0%9F%87%B8US_%40WangCai_8
-hysteria2://606ce368-70b2-4b68-864d-8bcb1d308e17@207.211.164.255:44300/?sni=tg.WangCai2&insecure=1#%F0%9F%87%BA%F0%9F%87%B8US_%40WangCai_8
-hysteria2://083d480a-4ce0-4743-92a5-4867ab4d8790@207.211.164.255:44300/?sni=tg.WangCai2&insecure=1#%F0%9F%87%BA%F0%9F%87%B8US_%40WangCai_8
-hysteria2://b2e85aec-a169-4de3-adc3-76a38821f2db@207.211.164.255:44300/?sni=tg.WangCai2&insecure=1#%F0%9F%87%BA%F0%9F%87%B8US_%40WangCai_8
-hysteria2://36c97252-a757-4a67-aecf-df95ae4ff1ab@207.211.164.255:44300/?sni=tg.WangCai2&insecure=1#%F0%9F%87%BA%F0%9F%87%B8US_%40WangCai_8
-hysteria2://0678d734-ceff-463a-b784-6630d27d425d@207.211.164.255:44300/?sni=tg.WangCai2&insecure=1#%F0%9F%87%BA%F0%9F%87%B8US_%40WangCai_8
-hysteria2://f917a2a7-cd83-4a37-bec1-47e8a491b565@us-04.worldfirst.eu.org:44300/?sni=us-01.worldfirst.eu.org&insecure=1#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%2004-1Q
-hysteria2://1478db90-d415-471e-a0b4-f21fcf4262f2@us-04.worldfirst.eu.org:44300/?sni=us-01.worldfirst.eu.org&insecure=1#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%2004-1J
-hysteria2://ea9d01f8-f13e-451e-943e-8b765a2cc153@us-04.worldfirst.eu.org:44300/?sni=us-01.worldfirst.eu.org&insecure=1#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%2004-1F
-hysteria2://458d251c-d0d1-4dfc-b689-b4df66f71bc8@us-02.worldfirst.eu.org:44300/?sni=us-01.worldfirst.eu.org&insecure=1
 hysteria2://8c7252e0-9f8c-4614-88cb-c7d3110ec624@107.175.124.172:50000/?sni=v2.chatpro.icu&obfs=salamander&obfs-password=N2IwNzRhZTY1ZWI0NTQyMw%3D%3D&insecure=1
+
 
 
 
