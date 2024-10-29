@@ -1,3 +1,1 @@
-vless://333ce986-700b-4e72-81d3-7b8093c0be82@192.168.3.7:1234?encryption=none&security=tls&sni=rocky.funey.nyc.mn&alpn=http%2F1.1&fp=random&allowInsecure=1&type=ws&host=rocky.funey.nyc.mn&path=%2F%3Fproxyip%3Doracle.gitgoogle.com#PL%F0%9F%90%B2%E2%84%A2%EF%B8%8F%E3%80%90%E8%AF%B7%E5%8B%BF%E6%B5%8B%E9%80%9F%E3%80%91
-trojan://funey@192.168.3.7:1234?security=tls&sni=trojan.funey.nyc.mn&fp=randomized&allowInsecure=1&type=ws&host=trojan.funey.nyc.mn&path=%2F%3Fed%3D2560#%F0%9F%87%BA%F0%9F%87%B8%20US
 hysteria2://zhangyang@130.61.50.75:6443/?sni=www.bing.com&insecure=1#AMD-HY2
