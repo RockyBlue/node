@@ -1,3 +1,4 @@
 hysteria2://zhangyang@130.61.50.75:6443/?sni=www.bing.com&insecure=1#AMD-HY2
 hysteria2://sysadmin.sysadmin@20.255.156.30:8443/?sni=maz.lnodo.com&insecure=0#maz
 hysteria2://sysadmin.sysadmin@oc.lhy.pp.ua:449/?sni=oc.lhy.pp.ua&insecure=0#azure
+hysteria2://sysadmin.sysadmin@xc.wujisheji.eu.org:4566/?sni=xc.wujisheji.eu.org&peer=xc.wujisheji.eu.org&insecure=0&mport=40000-60000#啊啊啊
