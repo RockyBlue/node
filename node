@@ -3,3 +3,4 @@ hysteria2://sysadmin.sysadmin@20.255.156.30:8443/?sni=maz.lnodo.com&insecure=0#m
 hysteria2://sysadmin.sysadmin@oc.lhy.pp.ua:449/?sni=oc.lhy.pp.ua&insecure=0#azure
 hysteria2://sysadmin.sysadmin@xc.wujisheji.eu.org:4566/?sni=xc.wujisheji.eu.org&peer=xc.wujisheji.eu.org&insecure=0&mport=40000-60000#啊啊啊
 hysteria2://sysadmin.sysadmin@158.180.87.211:4566/?sni=xc.wujisheji.eu.org&peer=xc.wujisheji.eu.org&insecure=0&mport=40000-60000#啊啊啊
+hysteria2://sysadmin.sysadmin@167.234.249.46:444/?sni=a.961229.xyz&insecure=0#a.961229.xyz
