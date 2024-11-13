@@ -6,3 +6,4 @@ hysteria2://sysadmin.sysadmin@158.180.87.211:4566/?sni=xc.wujisheji.eu.org&peer=
 hysteria2://sysadmin.sysadmin@167.234.249.46:444/?sni=a.961229.xyz&insecure=0#a.961229.xyz
 hysteria2://sysadmin.sysadmin@116.206.93.19:443/?insecure=1
 hysteria2://sysadmin.sysadmin@47.238.124.210:443/?insecure=1&mport=20000-50000
+hysteria2://sysadmin.sysadmin@47.76.107.117:444/?sni=hk4.dogkk.com&peer=hk4.dogkk.com&insecure=0#hk5
