@@ -5,3 +5,4 @@ hysteria2://sysadmin.sysadmin@xc.wujisheji.eu.org:4566/?sni=xc.wujisheji.eu.org&
 hysteria2://sysadmin.sysadmin@158.180.87.211:4566/?sni=xc.wujisheji.eu.org&peer=xc.wujisheji.eu.org&insecure=0&mport=40000-60000#啊啊啊
 hysteria2://sysadmin.sysadmin@167.234.249.46:444/?sni=a.961229.xyz&insecure=0#a.961229.xyz
 hysteria2://sysadmin.sysadmin@116.206.93.19:443/?insecure=1
+hysteria2://sysadmin.sysadmin@47.238.124.210:443/?insecure=1&mport=20000-50000
