@@ -8,3 +8,4 @@ hysteria2://sysadmin.sysadmin@116.206.93.19:443/?insecure=1
 hysteria2://sysadmin.sysadmin@47.238.124.210:443/?insecure=1&mport=20000-50000
 hysteria2://sysadmin.sysadmin@47.76.107.117:444/?sni=hk4.dogkk.com&peer=hk4.dogkk.com&insecure=0#hk5
 hysteria2://sysadmin.sysadmin@66.103.200.109:443/?insecure=1&downmbps=200%20mbps
+hysteria2://sysadmin.jason1202@66.103.210.41:5678/?sni=meixi.world--speed.com&peer=meixi.world--speed.com&insecure=0&mport=20000-50000#美国
