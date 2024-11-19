@@ -28,4 +28,4 @@ hysteria2://6cfcb8ff-a608-49da-8edb-f791998b63ae@140.245.28.185:20000/?sni=www.b
 hysteria2://6cfcb8ff-a608-49da-8edb-f791998b63ae@129.154.237.229:20000/?sni=www.bing.com&insecure=1#%F0%9F%87%AE%F0%9F%87%B3%20%E5%8D%B0%E5%BA%A6%2002
 hysteria2://6cfcb8ff-a608-49da-8edb-f791998b63ae@192.9.181.38:20000/?sni=www.bing.com&insecure=1#%F0%9F%87%A6%F0%9F%87%BA%20%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%2001
 hysteria2://6cfcb8ff-a608-49da-8edb-f791998b63ae@138.3.208.201:20000/?sni=www.bing.com&insecure=1#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC%2004
-
+hysteria2://sysadmin.sysadmin@154.12.61.72:2053/?sni=hk1.helima.net&peer=hk1.helima.net&insecure=0&mport=8880#test
