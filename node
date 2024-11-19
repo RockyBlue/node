@@ -30,3 +30,4 @@ hysteria2://6cfcb8ff-a608-49da-8edb-f791998b63ae@192.9.181.38:20000/?sni=www.bin
 hysteria2://6cfcb8ff-a608-49da-8edb-f791998b63ae@138.3.208.201:20000/?sni=www.bing.com&insecure=1#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC%2004
 hysteria2://sysadmin.sysadmin@154.12.61.72:2053/?sni=hk1.helima.net&peer=hk1.helima.net&insecure=0&mport=8880#test
 hysteria2://sysadmin.sysadmin@66.103.200.109:443/?insecure=1&downmbps=200%20mbps
+hysteria2://sysadmin.jason1202@66.103.210.41:5678/?sni=meixi.world--speed.com&peer=meixi.world--speed.com&insecure=0&mport=20000-50000#美国
