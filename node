@@ -30,3 +30,4 @@ hysteria2://6cfcb8ff-a608-49da-8edb-f791998b63ae@129.154.237.229:20000/?sni=www.
 hysteria2://zhangyang@130.61.50.75:6443/?sni=www.bing.com&insecure=1#AMD-HY2
 hysteria2://sysadmin.sysadmin@172.245.89.46:443/?insecure=1
 hysteria2://6cfcb8ff-a608-49da-8edb-f791998b63ae@204.10.194.86:20000/?sni=www.bing.com&insecure=1#%F0%9F%87%B3%F0%9F%87%B1%20%E8%8D%B7%E5%85%B0%2001
+hysteria2://sysadmin.sysadmin@185.126.80.133:446/?sni=xgh2.heyyouhao1.com&peer=xgh2.heyyouhao1.com&insecure=0
