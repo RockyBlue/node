@@ -1,6 +1,7 @@
 hysteria2://zhangyang@130.61.50.75:6443/?sni=www.bing.com&insecure=1#AMD-HY2
 hysteria2://sysadmin.sysadmin@142.171.46.180:57450/?insecure=1
 hysteria2://sysadmin.sysadmin@61.111.247.160:8443/?sni=hg.sdxlgj.top&insecure=0#%E9%9F%93%E5%9C%8B%E5%8E%9F%E7%94%9F
+hysteria2://75686cfa-6b31-43ea-bbb8-547cff9a820e@128.204.223.116:5869/?sni=www.bing.com&alpn=h3&insecure=1#PL-s9-hy2
 
 
 
