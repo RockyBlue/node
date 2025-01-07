@@ -2,6 +2,7 @@ hysteria2://zhangyang@130.61.50.75:6443/?sni=www.bing.com&insecure=1#AMD-HY2
 hysteria2://sysadmin.sysadmin@142.171.46.180:57450/?insecure=1
 hysteria2://sysadmin.sysadmin@61.111.247.160:8443/?sni=hg.sdxlgj.top&insecure=0#%E9%9F%93%E5%9C%8B%E5%8E%9F%E7%94%9F
 hysteria2://75686cfa-6b31-43ea-bbb8-547cff9a820e@128.204.223.116:5869/?sni=www.bing.com&alpn=h3&insecure=1#PL-s9-hy2
+hysteria2://dongtaiwang.com@46.17.41.189:50717/?sni=www.bing.com&insecure=1#%F0%9F%87%B7%F0%9F%87%BA%20RU-Hysteria2%20%7C%200-0
 vless://b7fc14a5-7185-45c6-a78a-b9fa03fabd7c@104.16.109.158:443?encryption=none&security=tls&sni=vless.funey.nyc.mn&fp=random&allowInsecure=1&type=ws&host=vless.funey.nyc.mn&path=%2F%3Fed%3D2560#CF%E9%9A%8F%E6%9C%BA%E8%8A%82%E7%82%B9
 vless://b7fc14a5-7185-45c6-a78a-b9fa03fabd7c@104.16.73.115:443?encryption=none&security=tls&sni=vless.funey.nyc.mn&fp=random&allowInsecure=1&type=ws&host=vless.funey.nyc.mn&path=%2F%3Fed%3D2560#CF%E9%9A%8F%E6%9C%BA%E8%8A%82%E7%82%B9
 vless://b7fc14a5-7185-45c6-a78a-b9fa03fabd7c@172.64.40.50:443?encryption=none&security=tls&sni=vless.funey.nyc.mn&fp=random&allowInsecure=1&type=ws&host=vless.funey.nyc.mn&path=%2F%3Fed%3D2560#CF%E9%9A%8F%E6%9C%BA%E8%8A%82%E7%82%B9
