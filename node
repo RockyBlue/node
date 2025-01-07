@@ -3,6 +3,11 @@ hysteria2://sysadmin.sysadmin@142.171.46.180:57450/?insecure=1
 hysteria2://sysadmin.sysadmin@61.111.247.160:8443/?sni=hg.sdxlgj.top&insecure=0#%E9%9F%93%E5%9C%8B%E5%8E%9F%E7%94%9F
 hysteria2://75686cfa-6b31-43ea-bbb8-547cff9a820e@128.204.223.116:5869/?sni=www.bing.com&alpn=h3&insecure=1#PL-s9-hy2
 hysteria2://dongtaiwang.com@46.17.41.189:50717/?sni=www.bing.com&insecure=1#%F0%9F%87%B7%F0%9F%87%BA%20RU-Hysteria2%20%7C%200-0
+hysteria2://f5c4780e-2897-4a0e-b499-c8a8c6adf03e@kaikaixinxin-us.legeth.xyz:61489?insecure=0#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD01
+hysteria2://7d87f029-30c1-4641-bb84-485e13f6909d@kaikaixinxin-us.legeth.xyz:61902?insecure=0#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD02
+hysteria2://bd98193d-730b-4f46-aa72-62a917625dfd@kaikaixinxin-us.legeth.xyz:61950?insecure=0#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD03
+hysteria2://a63a098e-934b-45ef-abe7-e0ad456f740e@kaikaixinxin-us.legeth.xyz:61970?insecure=0#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD04
+hysteria2://23c1cbb9-7db8-4415-a821-15f35fb554be@kaikaixinxin-us.legeth.xyz:61860?insecure=0#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD05
 vless://b7fc14a5-7185-45c6-a78a-b9fa03fabd7c@104.16.109.158:443?encryption=none&security=tls&sni=vless.funey.nyc.mn&fp=random&allowInsecure=1&type=ws&host=vless.funey.nyc.mn&path=%2F%3Fed%3D2560#CF%E9%9A%8F%E6%9C%BA%E8%8A%82%E7%82%B9
 vless://b7fc14a5-7185-45c6-a78a-b9fa03fabd7c@104.16.73.115:443?encryption=none&security=tls&sni=vless.funey.nyc.mn&fp=random&allowInsecure=1&type=ws&host=vless.funey.nyc.mn&path=%2F%3Fed%3D2560#CF%E9%9A%8F%E6%9C%BA%E8%8A%82%E7%82%B9
 vless://b7fc14a5-7185-45c6-a78a-b9fa03fabd7c@172.64.40.50:443?encryption=none&security=tls&sni=vless.funey.nyc.mn&fp=random&allowInsecure=1&type=ws&host=vless.funey.nyc.mn&path=%2F%3Fed%3D2560#CF%E9%9A%8F%E6%9C%BA%E8%8A%82%E7%82%B9
