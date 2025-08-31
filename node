@@ -1,6 +1,6 @@
 hysteria2://zhangyang@130.61.50.75:6443?sni=www.bing.com&insecure=1#AMD-HY2
 hysteria2://sysadmin.sysadmin@142.171.46.180:57450?insecure=1
-vless://2584b733-9095-4bec-a7d5-62b473540f7a@funey-tts.hf.space:443?encryption=none&security=tls&fp=chrome&allowInsecure=1&type=xhttp&path=%2F&mode=auto#hf-xhttp
+vless://4fb56b4d-20e6-4520-b847-62b74f7015f2@funey-tts.hf.space:443?encryption=none&security=tls&fp=chrome&allowInsecure=1&type=xhttp&path=%2F&mode=auto#hf-xhttp
 hysteria2://1dd6c85c-e959-4c8b-9d5c-699af23e1d52@47.245.158.221:47430?sni=www.bing.com&alpn=h3&insecure=1#hy2-hello-world-ff6cf4fc-r42m6
 vless://125b000c-d6bb-4c33-b1a6-d4fbe875109f@jdcbiemuhexe.ap-southeast-1.clawcloudrun.com:443?encryption=none&security=tls&allowInsecure=1&type=xhttp&path=%2F&mode=auto#xhttp-di3o2ekl
 vless://b167feab-8b17-4ae1-98a1-6012844fc58a@tbiuqkbuyjhx.ap-southeast-1.clawcloudrun.com:443?encryption=none&security=tls&allowInsecure=1&type=ws&path=%2F#ws-lq4kcxzn
