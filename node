@@ -10,3 +10,4 @@ vless://58f59c32-d3f9-447c-899b-667632472406@node1.lunes.host:2271?encryption=no
 vless://125b000c-d6bb-4c33-b1a6-d4fbe875109f@jdcbiemuhexe.ap-southeast-1.clawcloudrun.com:443?encryption=none&security=tls&allowInsecure=1&type=xhttp&path=%2F&mode=auto#xhttp-di3o2ekl
 vless://b167feab-8b17-4ae1-98a1-6012844fc58a@tbiuqkbuyjhx.ap-southeast-1.clawcloudrun.com:443?encryption=none&security=tls&allowInsecure=1&type=ws&path=%2F#ws-lq4kcxzn
 vless://13c7e3d5-4fb2-4715-83f0-232204e8cbb3@8080-firebase-us-1759368527966.cluster-nxoxik7v6fdd2qf55tw3evldq6.cloudworkstations.dev:443?encryption=none&security=tls&alpn=http%2F1.1&fp=chrome&allowInsecure=1&type=xhttp&path=%2F&mode=auto#idx-xhttp
+vless://13c7e3d5-4fb2-4715-83f0-232204e8cbb3@8080-firebase-tw-1759392920755.cluster-ulqnojp5endvgve6krhe7klaws.cloudworkstations.dev:443?encryption=none&security=tls&alpn=http%2F1.1&fp=chrome&allowInsecure=1&type=xhttp&path=%2F&mode=auto#idx-xhttp
