@@ -1,6 +1,6 @@
 hysteria2://zhangyang@130.61.50.75:6443?sni=www.bing.com&insecure=1#AMD-HY2
 hysteria2://sysadmin.sysadmin@142.171.46.180:57450?insecure=1
-tuic://fbd1e79a-3a31-4c9f-8409-388fc3138c2f%3A829b74cf3627d0926868b0950fea7bf0@66.181.36.242:27063?sni=www.bing.com&alpn=h3&congestion_control=bbr#TUIC-66.181.36.242
+hysteria2://ieshare2025@66.181.36.242:27063?sni=www.bing.com&alpn=h3&insecure=1#Hy2-Bing
 hysteria2://DAGNGTAN@udp.us-west-1.clawcloudrun.com:43325?sni=www.bing.com&alpn=h3&insecure=1#jackrun_hy2
 hysteria2://unqQ1sYqLvstyt78FkJ1@node1.lunes.host:2271?insecure=1#lunes-hy2
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIuayueeuoemikemBk++8muiAgee9l+WPlOWPlO+9nFNBUC1WUE7liqDpgJ/niYgiLA0KICAiYWRkIjogInVzc2FwLnJvY2t5Ymx1ZS5xenouaW8iLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiMmNhMmMyZTktMmZlNC00MzM0LWFjN2MtOTU1MTZhMDk1MmRjIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJ1c3NhcC5yb2NreWJsdWUucXp6LmlvIiwNCiAgInBhdGgiOiAiL2xhb2x1byIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICJ1c3NhcC5yb2NreWJsdWUucXp6LmlvIiwNCiAgImFscG4iOiAiaHR0cC8xLjEiLA0KICAiZnAiOiAiIg0KfQ==
@@ -10,4 +10,3 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIuayueeuoemikemBk++8muiAgee9l+WPlOWPlO+9
 vless://58f59c32-d3f9-447c-899b-667632472406@node1.lunes.host:2271?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=84hTNhGHMtrWdnTdoOb-cFcC1q3-Ix7LdeRdr0GSHig&sid=503d84fd&spx=%2F&allowInsecure=1&type=tcp&headerType=none#lunes-reality
 vless://13c7e3d5-4fb2-4715-83f0-232204e8cbb3@8080-firebase-us-1759368527966.cluster-nxoxik7v6fdd2qf55tw3evldq6.cloudworkstations.dev:443?encryption=none&security=tls&alpn=http%2F1.1&fp=chrome&allowInsecure=1&type=xhttp&path=%2F&mode=auto#idx-xhttp
 vless://13c7e3d5-4fb2-4715-83f0-232204e8cbb3@8080-firebase-tw-1759392920755.cluster-ulqnojp5endvgve6krhe7klaws.cloudworkstations.dev:443?encryption=none&security=tls&alpn=http%2F1.1&fp=chrome&allowInsecure=1&type=xhttp&path=%2F&mode=auto#idx-xhttp
-hysteria2://unqQ1sYqLvstyt78FkJ1@node1.lunes.host:2271?sni=129.159.37.19&insecure=1#lunes-hy2
